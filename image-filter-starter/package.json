@@ -37,7 +37,7 @@
     "clean": "^4.0.2",
     "cp": "^0.2.0",
     "eb": "0.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-validator": "^6.4.0",
     "jimp": "^0.6.4",
     "postbuild": "^2.1.0",
